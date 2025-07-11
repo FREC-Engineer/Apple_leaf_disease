@@ -41,7 +41,7 @@ This dataset is hosted on **Roboflow**. You can download it directly using the f
 
 This project was inspired by or built upon the work of the following:
 
-- [@username](https://github.com/username)
+- [@r0ss-mYstery](https://github.com/r0ss-mYstery)
 
 
 ## 📚 Citation
@@ -52,7 +52,7 @@ Please also cite the following work:
   author = {FREC-Engineer},
   title = {Apple_leaf_disease},
   year = {2024},
-  howpublished = {\url{(https://github.com/FREC-Engineer/Apple_leaf_disease)}}
+  howpublished = {\url{https://github.com/FREC-Engineer/Apple_leaf_disease}}
 }
 
 
