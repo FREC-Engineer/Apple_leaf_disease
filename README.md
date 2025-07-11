@@ -33,7 +33,7 @@ This dataset is hosted on **Roboflow**. You can download it directly using the f
 
 ### 📦 Use Roboflow Export Link
 
-👉 [Download Dataset on Roboflow]((https://universe.roboflow.com/penn-state-university/apple_leaf_disease-nwd1o))  
+👉 [Download Dataset on Roboflow](https://universe.roboflow.com/penn-state-university/apple_leaf_disease-nwd1o)  
 
 
 
