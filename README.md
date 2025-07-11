@@ -1,6 +1,6 @@
 # 🍏 Apple Leaf Disease Detection Dataset
 
-This repository contains a labeled image dataset for training and evaluating machine learning models to detect various **apple leaf diseases**. It is designed for use in computer vision tasks such as classification, object detection, and instance segmentation.
+This repository contains a labeled image dataset for training and evaluating deep learning models to detect various **apple leaf diseases**. It is designed for use in object detection task.
 
 ---
 
@@ -20,9 +20,9 @@ This repository contains a labeled image dataset for training and evaluating mac
 - Test set 226 images
   
 
-- **Annotation format**: [YOLOv5 / COCO / Pascal VOC] *(choose what your export format is)*  
-- **Image type**: RGB (JPG, PNG)  
-- **Resolution**: Varies per image (mostly 640×480 and higher)  
+- **Annotation format**: [YOLOv7 / COCO / YOLOv8]
+- **Image type**: PNG 
+- **Resolution**: 640 x 640  
 - **License**: [Specify your license, e.g., CC BY 4.0]
 
 ---
@@ -41,7 +41,7 @@ This dataset is hosted on **Roboflow**. You can download it directly using the f
 
 This project was inspired by or built upon the work of the following:
 
-- [@r0ss-mYstery](https://github.com/r0ss-mYstery)
+- [r0ss-mYstery](https://github.com/r0ss-mYstery)
 
 
 ## 📚 Citation
